@@ -3,40 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "/Users/gussy/Documents/GitHub/comp1151prac-tilemapgame-Angus-G-1/TinyDungeon_Tilesheet.tsx",
-    "expandedProjectPaths": [
-    ],
-    "file.lastUsedOpenFilter": "All Files (*)",
-    "fileStates": {
-        "/Users/gussy/Documents/GitHub/comp1151prac-tilemapgame-Angus-G-1/TileMap.tmx": {
-            "scale": 2.5245,
-            "selectedLayer": 1,
-            "viewCenter": {
-                "x": -118.83541295306,
-                "y": -3.3670033670033632
-            }
-        },
-        "/Users/gussy/Documents/GitHub/comp1151prac-tilemapgame-Angus-G-1/TinyDungeon_Tilesheet.tsx": {
-            "scaleInDock": 1.3121,
-            "scaleInEditor": 1.4952
-        },
-        "/Users/gussy/Documents/GitHub/comp1151prac-tilemapgame-Angus-G-1/tilemap.tsx": {
-            "scaleInDock": 2.4694,
-            "scaleInEditor": 2
-        }
-    },
-    "last.imagePath": "/Users/gussy/Documents/GitHub/comp1151prac-tilemapgame-Angus-G-1/Assets/Tiled/Tilemap",
+    "activeFile": "",
+    "last.imagePath": "/Users/gussy/Downloads/kenney_tiny-dungeon 2/Tilemap",
     "map.fixedSize": false,
     "map.lastUsedFormat": "tmx",
     "map.tileHeight": 16,
     "map.tileWidth": 16,
     "openFiles": [
-        "/Users/gussy/Documents/GitHub/comp1151prac-tilemapgame-Angus-G-1/TinyDungeon_Tilesheet.tsx"
-    ],
-    "project": "gameTilemap.tiled-project",
-    "recentFiles": [
-        "/Users/gussy/Documents/GitHub/comp1151prac-tilemapgame-Angus-G-1/tilemap.tsx",
-        "/Users/gussy/Documents/GitHub/comp1151prac-tilemapgame-Angus-G-1/TinyDungeon_Tilesheet.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
