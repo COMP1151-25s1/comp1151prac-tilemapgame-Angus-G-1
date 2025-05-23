@@ -1,0 +1,52 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "First Draft.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "/Users/gussy/Documents/GitHub/comp1151prac-tilemapgame-Angus-G-1/Assets/Tiled/Tiled/First Draft.tmx": {
+            "scale": 1.8403,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 191.27316198445905,
+                "y": -73.90099440308646
+            }
+        },
+        "First Draft.tmx": {
+            "scale": 1.8403,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 191.27316198445905,
+                "y": -73.90099440308646
+            }
+        },
+        "TinyDungeon_Tileset.tsx": {
+            "scaleInDock": 2.1315,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "/Users/gussy/Documents/GitHub/comp1151prac-tilemapgame-Angus-G-1/kenney_tiny-dungeon (1)/Tilemap",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "TinyDungeon_Tileset.tsx",
+        "/Users/gussy/Documents/GitHub/comp1151prac-tilemapgame-Angus-G-1/Assets/Tiled/Tiled/First Draft.tmx",
+        "First Draft.tmx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "TinyDungeon_Tileset.tsx",
+        "/Users/gussy/Documents/GitHub/comp1151prac-tilemapgame-Angus-G-1/Assets/Tiled/Tiled/First Draft.tmx",
+        "First Draft.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
